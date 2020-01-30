@@ -1,0 +1,73 @@
+body{
+	background-image: url("telegram.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: Tahoma;
+    position: static;
+    margin-left: 160px;
+    margin-top: 105px;
+}
+#name{
+	font-family: Tahoma;
+	color: white;
+	padding-top: 50px;
+	padding-left: 620px;
+    padding-right: 560px;
+	position: static;
+	text-align: left;
+}
+span{
+	float:right;
+	font-weight: bold;
+	position: static;
+}
+#sign{
+	padding-left: 620px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+	font-weight: bold;
+	position: static;
+
+}
+
+
+.info{
+	color:rgb(153,153,153);
+	font-size: 14px;
+	padding-left: 620px;
+	position: static;
+
+}
+.titles{
+	padding-top: 30px;
+	position: static;
+
+}
+
+.sometext{
+	text-align: center;
+    padding-top: 140px;
+    padding-right: 120px;
+	color:rgb(132,162,200);
+	position: static;
+	font-size: 13px;
+}
+.some{
+	text-align: center;
+	color:rgb(132,162,200);
+	position: static;
+	font-size: 13px;
+}
+.choose{
+	padding-left: 620px;
+	padding-top: 10px;
+	position:static ;
+}
+a{
+	font-weight: bold;
+	text-decoration: none;
+	position: static;
+}
+#next{
+	color:white;
+}
